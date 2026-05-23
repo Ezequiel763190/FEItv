@@ -40,4 +40,9 @@ O FEItv foi criado com foco em aprendizado e prática. O objetivo não foi apena
 
 Sobre mim:
 
-Nome: Ezequiel Botelho Rocha / Numero: 11 973136284 / E-mail: ezequiel27rocha@gmail.com / Curso: Ciência da Computação / Faculdade: Centro Universitário FEI / Inicio e Término do curso: 2026 - 2029
+- Nome: Ezequiel Botelho Rocha
+- Numero: 11 973136284
+- E-mail: ezequiel27rocha@gmail.com
+- Curso: Ciência da Computação
+- Faculdade: Centro Universitário FEI
+- Inicio e Término do curso: 2026 - 2029

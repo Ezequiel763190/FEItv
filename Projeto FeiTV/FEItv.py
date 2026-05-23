@@ -1,12 +1,3 @@
-##EZEQUIEL BOTELHO ROCHA
-
-##RA: 22.126.025.0
-
-##TURMA: 301
-
-##PROFESSOR: MURILO
-
-
 ##FUNÇÃO CADASTRAR USUÁRIO
 def cadastrar_usuario():
     Cadastrar_usuario = input("Digite seu novo usuário: ")
